@@ -1,22 +1,4 @@
-# How Can I snipe the token in Pump.fun?
-# Solana pumpfun sniper
-
-This is the first screen of the my Sniper.
-![image](./screenshots/1.png)
-
-This is the settings of my sniper.
-You can set these constants.
-![image](./screenshots/3.png)
-
-This is the sniper mode of my sniper.
-![image](./screenshots/2.png)
-
-This is the constants settings of the sniper.
-You can set these constants.
-![image](./screenshots/4.png)
-
-This is the starting of the sniper.
-![image](./screenshots/5.png)
+# Solana pumpfun sniper Bot
 
 These are the steps of the sniping process.
 ![image](./screenshots/6.png)
